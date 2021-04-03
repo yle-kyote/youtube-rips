@@ -17,11 +17,7 @@ git branch -M main
 
 git push -u origin main
 
-timeout 10s printf "kyle.winston001@mymdc.net"
 
-timeout 20s printf  "shizno1234!"
-
-git push -u origin main
 
 
 
