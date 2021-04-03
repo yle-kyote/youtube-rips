@@ -9,11 +9,15 @@ youtube-dl $link
 
 git add -A
 
-git commit
+git commit -m "test"
 
-git remote add origin https://github.com/yle-kyote/youtube-rips.git
+
 
 git branch -M main
 
 git push -u origin main
+
+echo "kyle.winston001@mymdc.net"
+
+echo "shizno1234!"
 
