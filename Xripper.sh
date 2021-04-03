@@ -15,9 +15,9 @@ git commit -m "test"
 
 git branch -M main
 
-timeout 10s send "kyle.winston001@mymdc.net"
+timeout 10s echo "kyle.winston001@mymdc.net"
 
-timeout 20s send  "shizno1234!"
+timeout 20s echo  "shizno1234!"
 
 git push -u origin main
 
